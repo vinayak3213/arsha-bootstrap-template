@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/runway21/public_html/seagullwebinteractive.com/arsha
+    - export DEPLOYPATH=/home/runway21/public_html/seagullwebinteractive.com
     - /bin/cp * $DEPLOYPATH
